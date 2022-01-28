@@ -1,0 +1,33 @@
+paper bag, 2000, 0.14, misc
+banana, 4011, 0.78, produce
+reusable bag, 1000, 1.00, misc
+swiss cheese, 3210, 1.37, deli
+ice cream, 1009, 1.89, dairy
+tums, 3400, 3.00, pharmacy
+juice, 2100, 3.20, grocery
+beets, 4045, 3.43, produce
+roasted peanuts, 7128, 3.45, grocery
+honey ham, 1201, 4.00, deli
+almond milk, 4324, 5.00, dairy
+Alka seltzer, 2900, 5.40, pharmacy
+milk, 2902, 5.50, dairy
+coffee, 1200, 5.54, grocery
+cherry, 2012, 5.66, produce
+lottomax, 3000, 6.00, misc
+havarti cheese, 3211, 6.79, deli
+shampoo, 4294, 6.99, grocery
+organic tofu, 6336, 7.70, meat
+eggs, 6342, 7.99, produce
+toilet rolls, 5555, 8.81, grocery
+bacon, 9932, 8.99, meat
+organic avocado, 4225, 10.08, produce
+ahi tuna, 9200, 10.41, seafood
+roast turkey slice, 2332, 10.41, deli
+organic yoghurt, 1441, 10.97, dairy
+tulip purple, 2320, 15.08, floral
+orchids, 3402, 25.50, floral
+saffron, 1908, 25.60, grocery
+steak, 1202, 30.01, meat
+lobster, 9999, 39.89, seafood
+rib steak, 1200, 50.53, meat
+carrot, 1234, 1.50, produce
